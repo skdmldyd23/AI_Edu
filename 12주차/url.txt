@@ -1,0 +1,9 @@
+<감성사전>
+http://dilab.kunsan.ac.kr/knusl.html
+https://github.com/aesuli/SentiWordNet/
+
+<선행연구 등 찾는 사이트>
+http://scholar.google.co.kr
+http://www.sciencedirect.com
+http://www.dbpia.co.kr
+https://scienceon.kisti.re.kr/
